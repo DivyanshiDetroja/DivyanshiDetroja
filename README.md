@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Divyanshi Detroja</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on a hackathon project: **Video conferencing Platform**
 
 - 🌱 I’m currently learning **React**
 
