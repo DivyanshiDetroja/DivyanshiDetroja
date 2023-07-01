@@ -14,30 +14,23 @@
 <img src="https://64.media.tumblr.com/e02a94eb3ed476b9088dae2247218b35/tumblr_pof1ooiEIG1x6a7yto1_500.gifv" align="right" height=220 width=410>
   </div>
 <li>
- <b>Name:</b> Sarah</li>
-<li>
-<b>Fursona:</b> Snow Fox
-</li>
-<li>
-<b>Loves:</b> anime, osu, rhythm games
-</li>
-<li>
+ <b>Name:</b> Divyanshi</li>
+  <li>
 <b>Gender:</b> she/her/Female 🏳️‍⚧️
 </li>
 <li>
-<b>Git Server</b> https://git.thicc-thighs.de
+<b>Currently Persuing:</b> B.Tech in Computer Engineering from Indus University, Ahmedabad.
+  <br>
+  Sem: 7 | SGPA: 9.8
 </li>
 <li>
-<b>LastFM:</b> https://scrobble.egirldev.co.uk
+<b>Designation:</b> Front-end Web Developer
 </li>
+
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Tech Stack:</b> MERN stack
 </li>
-<li>
-<b>Working @:</b> Intave Anticheat
-</li>
-<br><br><br>
-</div>
+
 <div>
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
  <br>
