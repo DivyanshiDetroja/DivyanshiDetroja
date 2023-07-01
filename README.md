@@ -43,7 +43,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://24.media.tumblr.com/7587d35b2362777783a4164160a3d58e/tumblr_mq386vyfgl1qii0lzo1_500.gif" align="right">
   </div>
 </div>
 <div>
