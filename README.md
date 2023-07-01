@@ -11,7 +11,7 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/e02a94eb3ed476b9088dae2247218b35/tumblr_pof1ooiEIG1x6a7yto1_500.gifv" align="right" height=200 width=300>
+<img src="https://64.media.tumblr.com/e02a94eb3ed476b9088dae2247218b35/tumblr_pof1ooiEIG1x6a7yto1_500.gifv" align="right" height=220 width=410>
   </div>
 <li>
  <b>Name:</b> Sarah</li>
@@ -43,7 +43,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://24.media.tumblr.com/7587d35b2362777783a4164160a3d58e/tumblr_mq386vyfgl1qii0lzo1_500.gif" align="right">
+<img src="https://24.media.tumblr.com/7587d35b2362777783a4164160a3d58e/tumblr_mq386vyfgl1qii0lzo1_500.gif" align="right" height=220 width=410>
   </div>
 </div>
 <div>
@@ -55,7 +55,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://media.tenor.com/8yTZcA1_aGEAAAAC/amelia-watson-vtuber.gif" align="right" width=410 height=200>
   </div>
 <br>
 <p align="center">Hewe awe some of my <br>
