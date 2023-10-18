@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Divyanshi Detroja</h1>
-<h3 align="center">A Junior MERN Stack Developer from India</h3>
+<h3 align="center">A Frontend Developer from India</h3>
 
-- 🔭 I’m currently working on a hackathon project: **Pizza Ordering Platform**
+- 🔭 I’m currently working on a hackathon project: **Social Networking Platform**
 
 - 🌱 I’m currently learning **React**
 
